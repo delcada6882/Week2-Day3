@@ -1,0 +1,49 @@
+.header li{
+    font-family: biome, congenial, daytona, sans-serif;
+    text-decoration: none;
+    display: inline;
+    list-style-type: none;
+    font-size: 26px;
+    color: white;
+    padding: 0px 15px 0px 15px;
+}
+.header{
+    background-color: rgb(13, 0, 20);
+    margin: 0;
+    padding: 0;
+}
+.header ul{
+    text-align: center;
+    padding: 7px 0 7px 0;
+    margin: 0;
+}
+.main-site {
+    background-image: url("Stars\ Sphere.jpg");
+    background-position: center center;
+    margin: 0px auto 0px auto;
+    height: 924px;
+    width:auto;
+    margin: 0;
+    padding: 0;
+}
+.main-site h1{
+    color: #FFE81F;
+    font-family: biome, congenial, daytona, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    padding: 300px 0 0 0;
+    margin: 0;
+}
+.main-site h2{
+    color: #FFE81F;
+    font-family: biome, congenial, daytona, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: none;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
